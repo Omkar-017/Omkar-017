@@ -8,7 +8,7 @@ I'm a passionate developer who loves to explore tech, learn new things, and buil
 - 🧠 Always curious about: Data, AI, and clean code
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&style=flat&logoColor=white)](https://twitter.com/your-handle)
 
 ## 📊 GitHub Stats
