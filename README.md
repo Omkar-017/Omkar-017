@@ -9,7 +9,7 @@ I'm a passionate developer who loves to explore tech, learn new things, and buil
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/omkar-kamble-7569b934a/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&style=flat&logoColor=white)](https://twitter.com/your-handle)
+[![Twitter](https://x.com/Omkark69?t=I619K67uFP-mjd2lczi4lQ&s=09)
 
 ## 📊 GitHub Stats
 ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar-017&show_icons=true&theme=radical)
