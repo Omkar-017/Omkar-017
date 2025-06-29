@@ -8,7 +8,7 @@ I'm a passionate developer who loves to explore tech, learn new things, and buil
 - 🧠 Always curious about: Data, AI, and clean code
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/omkar-kamble-7569b934a/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/omkar-kamble-7569b934a/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=Twitter&style=flat&logoColor=black)](https://x.com/Omkark69)
 [![Instagram](https://img.shields.io/badge/Instagram-blue?logo=Instagram&style=flat&logoColor=black)](https://www.instagram.com/omkar._017)
 ## 📊 GitHub Stats
