@@ -13,8 +13,7 @@ I'm a passionate developer who loves to explore tech, learn new things, and buil
 [![Instagram](https://img.shields.io/badge/Instagram-blue?logo=instagram&style=flat&logoColor=white)](https://www.instagram.com/omkar._017/)
 
 ## 📊 GitHub Stats
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar-017&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar-017&show_icons=true&theme=radical)
 
----
 
-_Thanks for visiting!_
+## _Thanks for Visiting!..._
