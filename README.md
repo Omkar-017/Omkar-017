@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Omkar 👋
 
-<!--
-**Omkar-017/Omkar-017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves to explore tech, learn new things, and build cool stuff.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning: Machine Learning, Full Stack Development
+- 🔧 Tools I use: Python, Git, VS Code, Linux
+- 🧠 Always curious about: Data, AI, and clean code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat&logoColor=white)](https://twitter.com/your-handle)
+[![Instagram](https://img.shields.io/badge/Instagram-blue?logo=instagram&style=flat&logoColor=white)](https://www.instagram.com/omkar._017/)
+
+## 📊 GitHub Stats
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar-017&show_icons=true&theme=radical)
+
+---
+
+_Thanks for visiting!_
